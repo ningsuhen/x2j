@@ -1,0 +1,17 @@
+{
+  "name": "x2j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x2j.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "x2j":"x2j.js"
+  },
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
